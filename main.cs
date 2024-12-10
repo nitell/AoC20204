@@ -1,2 +1,2 @@
-﻿Console.WriteLine(Day04.PartA());
-Console.WriteLine(Day04.PartB());
+﻿Console.WriteLine(Day06.PartA());
+Console.WriteLine(Day06.PartB());
